@@ -1,0 +1,5 @@
+<!--pages/test/test.wxml-->
+<view class="Time-limited-buy">
+    <view class="title">{{title}}<text class="title-english">/ {{titleE}}</text></view>
+    <view class="page" wx:if="{{ispage}}">{{page}}<text class="zpage"> / {{zpage}}</text></view>
+</view>

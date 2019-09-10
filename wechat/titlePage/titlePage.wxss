@@ -1,0 +1,30 @@
+/* pages/test/test.wxss */
+.Time-limited-buy{
+    padding: 60rpx 40rpx 40rpx 40rpx;
+    box-sizing:content-box;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+}
+.Time-limited-buy .title{
+    font-size: 36rpx;
+    color: #333;
+    letter-spacing:2rpx;
+    font-weight: 700;
+}
+.Time-limited-buy .title-english{
+    letter-spacing:1rpx;
+    font-size: 28rpx;
+    font-weight: lighter;
+    color: #B2B2B2;
+    padding-left: 12rpx;
+}
+.Time-limited-buy .page{
+    color: #333333;
+    font-size: 28rpx;
+    padding-right: 2px;
+}
+.Time-limited-buy .zpage{
+    color: #888888;
+    font-size: 26rpx;
+}
