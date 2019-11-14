@@ -1,0 +1,51 @@
+<view class="mask" wx:if="{{isShow}}" catchtouchmove="stopScroll">
+    <view class="sku {{isSureCss?'openskucss':'closeskucss'}}">
+        <view class="sku-top">
+            <view class="sku-goods-img-box">
+                 <image class="sku-img" src="{{imgUrl + sku.img}}"/>
+            </view>
+            <view class="sku-price-option-box">
+                <view class="price-box">
+                    <text class="price">{{sku.price}}</text>
+                    <text class="y-price">{{sku.price}}</text>
+                </view>
+                <view class="selected-option">
+                   已选择：{{optionSt}}
+                </view>
+            </view>
+            <view class="iconclose" bindtap="isSure">
+                <icon type="clear"  color="#999999"  size="{{20}}"/>
+            </view>
+        </view>
+        <view class="addr-option-box">
+            <block wx:for="{{sku.option}}" wx:for-index="itIdx" wx:for-item="item" wx:key="{{itIdx}}">
+                <view class="option-block">
+                    <view class="option-title">{{item.title}}</view>
+                    <view class="option-item-box">
+                       <block wx:for="{{item.option}}" wx:for-index="opIdx" wx:for-item="opitem" wx:key="{{opIdx}}">
+                            <view class="option-item {{optionList[itIdx].opindex==itIdx&&optionList[itIdx].opid==opIdx?'option-item-hover':''}}" 
+                                    data-istrue="{{optionList[itIdx].opindex==itIdx&&optionList[itIdx].opid==opIdx}}" bindtap='onOption' 
+                                    data-opid='{{opIdx}}' data-opIndex='{{itIdx}}' data-option='{{opitem}}'>
+                                    {{opitem}}
+                            </view>  
+                       </block>
+                    </view>
+                </view>
+            </block>
+             <view class="option-title">购买数量</view>
+                    <view class="option-item-box">
+                       <stepper bind:change='getNum'/>
+                </view>
+        </view>
+        <view class="btn-box">
+            <button class="que-ding"
+                    wx:if="{{isSureCss}}"
+                    hover-class="btn-hover"
+                    style="{{'background:' + btnBgColor+';color:'+ btnFontColor +';'}}"
+                    bindtap="isSure"
+                    >
+                    确定
+            </button> 
+        </view>      
+    </view>
+</view>

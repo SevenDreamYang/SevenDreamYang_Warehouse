@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+      "stepper":"/component/stepper/stepper"
+  },
+  "component": true
+}
