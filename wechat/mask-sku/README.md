@@ -11,7 +11,7 @@
 
 #### 样式
 
-![sku](https://github.com/SevenDreamYang/individual_Component_Warehouse/tree/master/wechat/wechat-img-macdown\sku1.png)
+![sku](https://github.com/SevenDreamYang/individual_Component_Warehouse/tree/master/wechat/wechat-img-macdown/sku1.png)
 
 #### 需求参数
 
