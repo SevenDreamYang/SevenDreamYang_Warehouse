@@ -1,11 +1,11 @@
 # stepper组件
-##当前组件状态
+## 当前组件状态
 
 - 状态：待优化
 
 #### 样式
 
-![sku](https://github.com/SevenDreamYang/individual_Component_Warehouse/tree/master/wechat/wechat-img-macdown/stepper.png)
+![stepper](https://github.com/SevenDreamYang/individual_Component_Warehouse/blob/master/wechat/wechat-img-macdown/stepper.png)
 
 #### 需求参数
 
