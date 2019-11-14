@@ -1,17 +1,17 @@
 # sku 组件
-##当前组件状态
+## 当前组件状态
 
 - 状态：半成品
 
 - 未完成：逻辑优化，价格变动等
 
-##参考项目 
+## 参考项目 
 
 花+
 
 #### 样式
 
-![sku](https://github.com/SevenDreamYang/individual_Component_Warehouse/tree/master/wechat/wechat-img-macdown/sku1.png)
+![sku](https://github.com/SevenDreamYang/individual_Component_Warehouse/blob/master/wechat/wechat-img-macdown/sku1.png)
 
 #### 需求参数
 
