@@ -12,12 +12,12 @@ Component({
   },
   data: {
     images: [
-      '../../asset/images/wamhluoyichang.png', 
-      '../../asset/images/zanwuxiaoxi.png',
-      '../../asset/images/zanwushuju.png', 
-      '../../asset/images/zanwujieguo.png',
-      '../../asset/images/kongjinhuoche.png',
-      '../../asset/images/loading.gif'
+      './img/wamhluoyichang.png', 
+      './img/asset/images/zanwuxiaoxi.png',
+      './img/asset/images/zanwushuju.png', 
+      './img/asset/images/zanwujieguo.png',
+      './img/asset/images/kongjinhuoche.png',
+      './img/asset/images/loading.gif'
     ],
   },
   methods: {

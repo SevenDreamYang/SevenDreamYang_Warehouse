@@ -1,0 +1,8 @@
+<view class="navbar" style="height:{{navHeight}}px;background-color:{{backgroundColor}}">
+    <view class="nav-leftCapsule" style="background-color:{{menubackgroundColor}};color:{{fontColor}};height:{{menuheight-3}}px;top:{{navTop+1}}px;{{!showHome?'border:0':''}}">
+        <view class="goback {{!showHome?'':'border-r'}}" catchtap="_onLeft"><view style="font-size:48rpx" class="iconfont iconfanhui"></view></view><view wx:if="{{showHome}}" class="goHome border-l" catchtap="_onRight"><view style="font-size:36rpx" class="iconfont {{icon}}"></view></view>
+    </view>
+    <view class="navbar-title" style="top:{{navTop}}px;color:{{fontColor}}">
+        {{title}}
+    </view>
+</view>
