@@ -5,3 +5,4 @@
 - [goodsCard](<https://github.com/SevenDreamYang/individual_Component_Warehouse/tree/master/wechat/goodsCard>) 物品栏
 - [errer](<https://github.com/SevenDreamYang/individual_Component_Warehouse/tree/master/wechat/errer>) 错误信息
 - [navBar](<https://github.com/SevenDreamYang/individual_Component_Warehouse/tree/master/wechat/NavBar>) 头部导航
+-  [NumberKeyBoard](<https://github.com/SevenDreamYang/individual_Component_Warehouse/tree/master/NumberKeyBoard/NumberKeyBoard>) 密码键盘
