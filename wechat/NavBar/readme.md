@@ -12,7 +12,9 @@
 
 #### 样式
 
-<img src="https://github.com/SevenDreamYang/individual_Component_Warehouse/blob/master/wechat/wechat-img-macdown/nav.png" alt="微信图片_20191229135647" style="zoom:75%;" />
+![NavBar](https://raw.githubusercontent.com/SevenDreamYang/individual_Component_Warehouse/master/wechat/wechat-img-macdown/nav.png)
+
+
 
 #### 需求参数
 

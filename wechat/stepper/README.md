@@ -5,7 +5,7 @@
 
 #### 样式
 
-![stepper](https://github.com/SevenDreamYang/individual_Component_Warehouse/blob/master/wechat/wechat-img-macdown/stepper.png)
+![stepper](https://raw.githubusercontent.com/SevenDreamYang/individual_Component_Warehouse/master/wechat/wechat-img-macdown/stepper.png)
 
 #### 需求参数
 

@@ -10,7 +10,7 @@
 
 #### 样式
 
-![sku](https://github.com/SevenDreamYang/individual_Component_Warehouse/blob/master/wechat/wechat-img-macdown/titlepage.png)
+![titlepage](https://raw.githubusercontent.com/SevenDreamYang/individual_Component_Warehouse/master/wechat/wechat-img-macdown/titlepage.png)
 
 #### 需求参数
 
