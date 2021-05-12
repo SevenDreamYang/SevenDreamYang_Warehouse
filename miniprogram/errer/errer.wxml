@@ -1,4 +1,0 @@
-<view class="errer-view"> 
-    <image class="errer-img" src="{{images[type]}}" mode="widthFix"/>
-    <view class="err-title">{{title}}</view>
-</view>

@@ -1,8 +1,0 @@
-<view class="goods-info-box">
-    <image class="goods-info-img" src="/assets/dev/ad11.gif"/>
-    <view class="goods-info-info">
-        <view class="goods-name-pirce"><text class="">草莓多多</text><text class="">￥20</text></view>
-        <view class="goods-specs">已选：大杯/常规冰</view>
-        <view class="goods-num">x1</view>  
-    </view>
-</view>  

@@ -1,8 +1,8 @@
 # SevenDreamYang_Warehouse
 
-> 个人组件库
+> vue自定义指令
 >
-> [小程序](<https://github.com/SevenDreamYang/SevenDreamYang_Warehouse/tree/master/miniprogram>)
+> [vue自定义指令](<https://github.com/SevenDreamYang/SevenDreamYang_Warehouse/tree/master/directives>)
 
 > 个人js库
 >
@@ -11,3 +11,4 @@
 > 随笔
 >
 > [informal_Essay](https://github.com/SevenDreamYang/SevenDreamYang_Warehouse/tree/master/informal_Essay)
+
